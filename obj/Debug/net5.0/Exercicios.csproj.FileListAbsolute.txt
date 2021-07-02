@@ -1,0 +1,16 @@
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\bin\Debug\net5.0\Exercicios.exe
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\bin\Debug\net5.0\Exercicios.deps.json
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\bin\Debug\net5.0\Exercicios.runtimeconfig.json
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\bin\Debug\net5.0\Exercicios.runtimeconfig.dev.json
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\bin\Debug\net5.0\Exercicios.dll
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\bin\Debug\net5.0\ref\Exercicios.dll
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\bin\Debug\net5.0\Exercicios.pdb
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\obj\Debug\net5.0\Exercicios.csprojAssemblyReference.cache
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\obj\Debug\net5.0\Exercicios.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\obj\Debug\net5.0\Exercicios.AssemblyInfoInputs.cache
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\obj\Debug\net5.0\Exercicios.AssemblyInfo.cs
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\obj\Debug\net5.0\Exercicios.csproj.CoreCompileInputs.cache
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\obj\Debug\net5.0\Exercicios.dll
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\obj\Debug\net5.0\ref\Exercicios.dll
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\obj\Debug\net5.0\Exercicios.pdb
+C:\Users\M43590-00\OneDrive\Área de Trabalho\Exercicios\obj\Debug\net5.0\Exercicios.genruntimeconfig.cache
